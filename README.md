@@ -29,7 +29,7 @@ Clone the repository:
 
 ```bash
 https://github.com/omerbar97/Parallel-Page-Ranking-Algorithm.git
-cd Page-Ranking
+cd Parallel-Page-Ranking-Algorithm
 ```
 Build the executable:
 
