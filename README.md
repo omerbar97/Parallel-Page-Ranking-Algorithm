@@ -28,7 +28,7 @@ To build and run the code, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/tomerp1812/Page-Ranking.git
+https://github.com/omerbar97/Parallel-Page-Ranking-Algorithm.git
 cd Page-Ranking
 ```
 Build the executable:
